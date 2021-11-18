@@ -16,7 +16,7 @@
     "scripts": {
 
         "start": "react-scripts build && electron .",
-        "start2": "react-scripts start && electron .",
+        "react-start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
